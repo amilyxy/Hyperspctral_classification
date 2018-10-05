@@ -21,7 +21,7 @@ INDIANPGT_DIR = './data/Indian_pines_gt.mat'
 PAVIAUDATA_DIR = './data/PaviaU.mat' 
 PAVIAUGT_DIR = './data/PaviaU_gt.mat'
 SALINASDATA_DIR = './data/Salinas_corrected.mat' 
-SALINASGT_DIR = './data/salinas_gt.mat'
+SALINASGT_DIR = './data/Salinas_gt.mat'
 
 TRAIN_STEPS = 1000
 TRAIN_BATCH = 128
